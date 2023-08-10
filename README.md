@@ -4,7 +4,7 @@
 
 - 📚 As an avid knowledge seeker, I'm currently diving deep into the captivating world of Artificial Intelligence, with a strong emphasis on practical applications. Each obstacle I encounter adds fuel to my determination in unraveling the boundless possibilities within this innovative domain.
 
-- 🎯 Sporting a future-oriented perspective and a knack for absorbing new knowledge, I'm positioning myself as a committed disciple of technology. My objective is to contribute and collaborate, utilizing my evolving proficiencies to craft ingenious solutions.
+- 🎯 Sporting a future-oriented perspective and a knack for absorbing new knowledge, I'm positioning myself as a committed student of technology. My objective is to contribute and collaborate, utilizing my evolving proficiencies to craft ingenious solutions.
 
 - 🚀 Furthermore, I'm actively in search of seasoned individuals who can offer invaluable insights from a business standpoint, assisting in materializing projects in a tangible manner. If you possess expertise in project execution and share a fervor for AR, Computer Vision, or AI, I'm thrilled to connect and explore potential synergies.
 
