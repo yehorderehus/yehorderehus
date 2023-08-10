@@ -1,4 +1,4 @@
-- 👋 Greetings, I'm @yehorderehus!
+- 👋 Greetings, I'm @yehorderehus
 
 - 🌟 Embarking on my journey as an aspiring developer, I'm enthusiastically immersing myself in the realm of Augmented Reality. Armed with the capabilities of Computer Vision and wielding Python as my tool of choice, I'm taking dynamic strides towards giving life to digital experiences.
 
