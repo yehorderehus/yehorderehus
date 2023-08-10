@@ -8,9 +8,9 @@
 
 - 🚀 Furthermore, I'm actively in search of seasoned individuals who can offer invaluable insights from a business standpoint, assisting in materializing projects in a tangible manner. If you possess expertise in project execution and share a fervor for AR, Computer Vision, or AI, I'm thrilled to connect and explore potential synergies.
 
-- 📁 You can catch a glimpse of my projects and idea explorations on LinkedIn (see contacts), where I'm constantly refining my abilities and building a digital portfolio. Let's unite our efforts and shape the tech landscape of tomorrow, one step at a time.
+- 📁 You can catch a glimpse of my projects and idea explorations on LinkedIn, where I'm constantly refining my abilities and building a digital portfolio. Let's unite our efforts and shape the tech landscape of tomorrow, one step at a time.
 
-- 📫 Reaching out to me is as simple as sending a message on LinkedIn. I'm always open to connecting with kindred spirits and engaging in dialogues about innovative projects and the future of technology.
+- 📫 Reaching out to me is as simple as sending a message. I'm always open to connecting with kindred spirits and engaging in dialogues about innovative projects and the future of technology.
 
 #AugmentedReality #ComputerVision #Python #ArtificialIntelligence #LifelongLearner #LinkedIn #TechEnthusiast #ProjectExecution #Innovation #Collaboration
 
